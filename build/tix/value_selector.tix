@@ -1,0 +1,9 @@
+#notice 'this is an value_selector tixel code'
+var t="DWORD" n="DWORD" v="Web.DWORD.Values"
+'c DWORD (v), (t)
+DWORD -assign_new_value DWORDValue("AllowsApplicationSelecting") @="1"
+DWORD -assign_new_value DWORDValue("PullSelectIsEnable") @="0"
+DWORD -deselect_link_from_website DWORDLINK("https://www.w3schools.com/python/default.asp") @=y
+DWORD -aselect_intro_links DWORDRESPONDANCE(null)
+DWORD -end_all_values_command DWORD(SOTP)
+DWORD -value_promotion_to_highnetworkutil DWORDSTARTCOMMAND(/c util dword)
